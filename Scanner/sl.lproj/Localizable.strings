@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Scanner
+
+  Created by VladyslavMac on 16.02.2022.
+  
+*/
+
+"camera_edit" = "Uredi";
+"camera_share" = "Deliti";
+"camera_delete" = "Izbriši";
+"camera_share_all" = "Delite vse";
+"camera_your_documents" = "Vaši dokumenti";
+"camera_scan" = "Skeniraj";

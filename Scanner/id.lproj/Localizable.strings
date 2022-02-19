@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Scanner
+
+  Created by VladyslavMac on 16.02.2022.
+  
+*/
+
+"camera_edit" = "Sunting";
+"camera_share" = "Membagikan";
+"camera_delete" = "Menghapus";
+"camera_share_all" = "Bagikan Semua";
+"camera_your_documents" = "Dokumen Anda";
+"camera_scan" = "Pindai";

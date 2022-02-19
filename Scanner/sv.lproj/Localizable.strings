@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Scanner
+
+  Created by VladyslavMac on 16.02.2022.
+  
+*/
+
+"camera_edit" = "Redigera";
+"camera_share" = "Dela med sig";
+"camera_delete" = "Radera";
+"camera_share_all" = "Dela alla";
+"camera_your_documents" = "Dina dokument";
+"camera_scan" = "Skanna";

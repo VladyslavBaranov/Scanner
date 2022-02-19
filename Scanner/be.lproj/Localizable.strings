@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Scanner
+
+  Created by VladyslavMac on 16.02.2022.
+  
+*/
+
+"camera_edit" = "Рэдагаваць";
+"camera_share" = "Падзяліцеся";
+"camera_delete" = "Выдаліць";
+"camera_share_all" = "Падзяліцеся ўсім";
+"camera_your_documents" = "Вашы дакументы";
+"camera_scan" = "Сканіраванне";

@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Scanner
+
+  Created by VladyslavMac on 16.02.2022.
+  
+*/
+
+"camera_edit" = "Rediģēt";
+"camera_share" = "Dalīties";
+"camera_delete" = "Dzēst";
+"camera_share_all" = "Kopīgot visu";
+"camera_your_documents" = "Jūsu dokumenti";
+"camera_scan" = "Skenēt";

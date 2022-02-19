@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Scanner
+
+  Created by VladyslavMac on 16.02.2022.
+  
+*/
+
+"camera_edit" = "Tahrirlash";
+"camera_share" = "Ulashish";
+"camera_delete" = "Oʻchirish";
+"camera_share_all" = "Hammasini baham ko'ring";
+"camera_your_documents" = "Hujjatlaringiz";
+"camera_scan" = "Skanerlash";

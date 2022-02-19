@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Scanner
+
+  Created by VladyslavMac on 16.02.2022.
+  
+*/
+
+"camera_edit" = "தொகு";
+"camera_share" = "பகிர்";
+"camera_delete" = "அழி";
+"camera_share_all" = "அனைத்தையும் பகிரவும்";
+"camera_your_documents" = "உங்கள் ஆவணங்கள்";
+"camera_scan" = "ஊடுகதிர்";

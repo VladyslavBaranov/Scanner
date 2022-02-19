@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Scanner
+
+  Created by VladyslavMac on 16.02.2022.
+  
+*/
+
+"camera_edit" = "Sunting";
+"camera_share" = "Nuduhake";
+"camera_delete" = "Mbusak";
+"camera_share_all" = "Nuduhake Kabeh";
+"camera_your_documents" = "Dokumen Panjenengan";
+"camera_scan" = "Scan";

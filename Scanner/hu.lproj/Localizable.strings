@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Scanner
+
+  Created by VladyslavMac on 16.02.2022.
+  
+*/
+
+"camera_edit" = "Szerkesztés";
+"camera_share" = "Részvény";
+"camera_delete" = "Töröl";
+"camera_share_all" = "Az összes megosztása";
+"camera_your_documents" = "Az Ön dokumentumai";
+"camera_scan" = "Letapogatás";
